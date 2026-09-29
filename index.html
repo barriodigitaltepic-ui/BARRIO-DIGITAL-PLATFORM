@@ -51,6 +51,26 @@
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="app.js"></script>
 
+<script>
+
+if ("serviceWorker" in navigator) {
+
+  window.addEventListener("load", () => {
+
+    navigator.serviceWorker.register("./service-worker.js")
+      .then(registro => {
+        console.log("Barrio Digital PWA activa:", registro.scope);
+      })
+      .catch(error => {
+        console.error("Error registrando PWA:", error);
+      });
+
+  });
+
+}
+
+</script>  
+
 </body>
 
 </html>
