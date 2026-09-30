@@ -159,20 +159,20 @@
       ]
      },
     {
-  "nombre": "Mariscos Del Capu",
+  "nombre": "La Rusti - K",
   "categoria": "restaurantes",
-  "descripcion": "Mariscos premium, aguachiles, pulpo enamorado, reservaciones y pedidos digitales con experiencia gastronómica moderna.",
+  "descripcion": "Hamburguesas, Hot Dog, Carnes, Papas y Mas!!!",
 
-  "whatsapp": "5213113392436",
+  "whatsapp": "5213221561298",
 
-  "sitio": "https://barriodigitaltepic-ui.github.io/mariscos-del-capu/",
+  "sitio": "https://ventas-javier-maldonado.github.io/LA-RUSTI-K-BURGUER/",
 
-  "imagen": "images/mariscos-del-capu-banner.jpg",
+  "imagen": "images/promo-miercoles",
 
   "direccion": "Tepic, Nayarit",
 
-  "lat": 21.4882,
-  "lng": -104.8276,
+  "lat": 20.659813,
+  "lng": -105.228867,
 
   "color": "#00BCD4",
 
@@ -181,9 +181,9 @@
   "destacado": true,
 
   "galeria": [
-    "images/mariscos-1.jpg",
-    "images/mariscos-2.jpg",
-    "images/mariscos-3.jpg"
+    "images/promo-jueves.jpg",
+    "images/promo-viernes.jpg",
+    "images/promo-sabados-domingos.jpg"
       ]
     },
 
