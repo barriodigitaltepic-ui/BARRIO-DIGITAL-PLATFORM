@@ -187,6 +187,25 @@
       ]
     },
 
+      {
+      "nombre": "Mar y Chelas",
+      "categoria": "restaurantes",
+      "descripcion": "Mariscos buenos · Chelas mejores.",
+      "whatsapp": "52133 1740 8195",
+      "sitio": "https://ventas-javier-maldonado.github.io/MAR-Y-CHELAS-MARISCOS/",
+      "imagen": "images/mar-y-chelas-banner-premium.jpg",
+      "direccion": "Puerto Vallarta, Jalisco",
+      "lat": 20.656823,
+      "lng": -105.223432,
+      "color": "#D4AF37",
+      "badge": "destacado",
+      "galeria": [
+        "images/01-laminas-de-atun",
+        "images/13-tostada-ceviche-camaron.jpg",
+        "images/10-aguachile-verde.jpg"
+      ]
+    },
+
  {
   "nombre": "SELAH QUIROPODIA - PEDICURE CLINICO",
   "categoria": "belleza",
