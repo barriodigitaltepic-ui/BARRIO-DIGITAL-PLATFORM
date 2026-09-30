@@ -151,7 +151,7 @@
       "lng": -104.8276,
       "color": "#D4AF37",
       "badge": "destacado",
-      "destacado": true,
+      
       "galeria": [
         "images/ferreteria-1.jpg",
         "images/ferreteria-2.jpg",
@@ -168,7 +168,7 @@
   "sitio": "https://ventas-javier-maldonado.github.io/LA-RUSTI-K-BURGUER/",
 
   "imagen": "images/promo-miercoles.jpg",
-  "direccion": "Tepic, Nayarit",
+  "direccion": "Puerto <vallarta, Mexico",
 
   "lat": 20.659813,
   "lng": -105.228867,
@@ -190,14 +190,23 @@
       "nombre": "Mar y Chelas P.V.",
       "categoria": "restaurantes",
       "descripcion": "Mariscos buenos · Chelas mejores.",
+        
       "whatsapp": "5213317408195",
+        
       "sitio": "https://ventas-javier-maldonado.github.io/MAR-Y-CHELAS-MARISCOS/",
+        
       "imagen": "images/mar-y-chelas-banner-premium.jpg",
       "direccion": "Puerto Vallarta, Jalisco",
+        
       "lat": 20.656823,
       "lng": -105.223432,
+        
       "color": "#D4AF37",
+        
       "badge": "premium",
+
+      "destacado": true,
+        
       "galeria": [
         "images/01-laminas-de-atun.jpg",
         "images/13-tostada-ceviche-camaron.jpg",
